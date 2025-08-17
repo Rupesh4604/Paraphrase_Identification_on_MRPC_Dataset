@@ -101,10 +101,7 @@ Ensure msr-paraphrase-train.txt and msr-paraphrase-test.txt are in the root dire
 ▶️ Usage
 Once the setup is complete, you can run the main script to train and evaluate the model. The script will automatically download the GloVe embeddings on its first run (this is a large file and may take some time).
 
-```bash
-
-python your_main_script_name.py
-```
+Run the colab notebook
 
 The script will output the following:
 
